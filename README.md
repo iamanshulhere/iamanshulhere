@@ -5,7 +5,7 @@
 - 💻 Passionate about Web Development
 - 🌱 Currently learning Full Stack Development
 - 🎯 Goal: To become a skilled Software Developer
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: anshul0650@gmail.com
 
 ---
 
